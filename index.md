@@ -1,4 +1,4 @@
-## Welcome to About Bruce Laing
+## Welcome to about Bruce Laing
 
 You can use the [editor on GitHub](https://github.com/cororion/about/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
